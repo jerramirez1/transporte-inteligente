@@ -26,10 +26,10 @@ STATIONS: dict[str, dict] = {
     "Sur":            {"lineas": ["A"],       "es_intercambio": False, "es_terminal": True},
     "La Clarita":        {"lineas": ["B"],       "es_intercambio": False, "es_terminal": True},
     "El Bosque":      {"lineas": ["B"],       "es_intercambio": False, "es_terminal": True},
-    "Portal del Quindio":    {"lineas": ["A", "C"],  "es_intercambio": True,  "es_terminal": False},
+    "Portal Del Quindio":    {"lineas": ["A", "C"],  "es_intercambio": True,  "es_terminal": False},
     "Universidad Del Quindio":    {"lineas": ["C"],       "es_intercambio": False, "es_terminal": False},
     "Estadio Centenario":        {"lineas": ["C"],       "es_intercambio": False, "es_terminal": False},
-    "Terminal del Sur":   {"lineas": ["C"],       "es_intercambio": False, "es_terminal": True},
+    "Terminal Del Sur":   {"lineas": ["C"],       "es_intercambio": False, "es_terminal": True},
     "Mercado Minorista Quindiano":        {"lineas": ["B", "C"],  "es_intercambio": True,  "es_terminal": False},
 }
 

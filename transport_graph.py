@@ -35,8 +35,8 @@ from knowledge_base import LINES, STATIONS, get_station_info, get_line_info
 EDGES: list[tuple[str, str, str]] = [
     # Línea A: Norte ↔ Centro ↔ Portal del Quindio  ↔ Sur
     ("Norte",       "Centro",     "A"),
-    ("Centro",     "Portal del Quindio", "A"),
-    ("Portal del Quindio", "Sur",         "A"),
+    ("Centro",     "Portal Del Quindio", "A"),
+    ("Portal Del Quindio", "Sur",         "A"),
 
     # Línea B: El Bosque ↔ Centro ↔ Mercado Minorista Quindiano ↔ La Clarita
     ("El Bosque",   "Centro",     "B"),
@@ -44,10 +44,10 @@ EDGES: list[tuple[str, str, str]] = [
     ("Mercado Minorista Quindiano",     "La Clarita",     "B"),
 
     # Línea C: Portal del Quindio ↔ UUniversidad Del Quindio  ↔ Estadio Centenario ↔ Mercado Minorista Quindiano ↔ Terminal del Sur
-    ("Portal del Quindio", "Universidad Del Quindio", "C"),
+    ("Portal Del Quindio", "Universidad Del Quindio", "C"),
     ("Universidad Del Quindio", "Estadio Centenario",     "C"),
     ("Estadio Centenario",     "Mercado Minorista Quindiano",     "C"),
-    ("Mercado Minorista Quindiano",     "Terminal del Sur","C"),
+    ("Mercado Minorista Quindiano",     "Terminal Del Sur","C"),
 ]
 
 
