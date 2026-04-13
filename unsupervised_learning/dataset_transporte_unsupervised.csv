@@ -1,0 +1,1001 @@
+estacion_origen,estacion_destino,hora_del_dia,dia_semana,num_transbordos,pasajeros_en_sistema,tiempo_estimado_min
+Centro,Norte,6,3,1,470,26
+Sur,Centro,7,4,2,220,28
+Centro,Universidad Del Quindio,18,6,0,287,14
+Centro,El Bosque,3,2,0,199,14
+Terminal Del Sur,Norte,1,3,0,87,11
+Estadio Centenario,Mercado Minorista Quindiano,20,0,0,107,15
+Terminal Del Sur,El Bosque,11,0,1,98,26
+Sur,Universidad Del Quindio,9,3,0,387,24
+Sur,El Bosque,14,5,1,100,27
+Centro,Universidad Del Quindio,22,3,0,113,18
+La Clarita,El Bosque,2,4,1,100,22
+Estadio Centenario,Centro,20,0,1,67,19
+Estadio Centenario,El Bosque,13,1,1,58,25
+La Clarita,Portal Del Quindio,20,1,1,133,27
+Portal Del Quindio,La Clarita,14,3,2,57,36
+Centro,Universidad Del Quindio,2,5,0,130,13
+La Clarita,Sur,17,3,0,201,23
+Portal Del Quindio,La Clarita,5,5,1,155,19
+Centro,Portal Del Quindio,21,4,0,195,19
+Portal Del Quindio,Sur,11,1,0,63,24
+El Bosque,Terminal Del Sur,15,6,0,89,14
+La Clarita,Norte,15,4,0,131,24
+Norte,Mercado Minorista Quindiano,20,1,0,173,22
+Centro,El Bosque,8,4,1,214,28
+La Clarita,Portal Del Quindio,0,0,1,120,24
+Universidad Del Quindio,Sur,23,0,0,185,17
+Portal Del Quindio,Terminal Del Sur,10,2,0,130,17
+Terminal Del Sur,Mercado Minorista Quindiano,2,2,1,82,26
+Portal Del Quindio,Sur,4,1,0,90,21
+Centro,Norte,6,0,1,467,17
+Sur,Universidad Del Quindio,0,6,0,111,17
+Mercado Minorista Quindiano,Universidad Del Quindio,4,2,0,153,15
+Universidad Del Quindio,Terminal Del Sur,2,0,0,150,24
+Estadio Centenario,Norte,13,2,1,50,20
+Estadio Centenario,El Bosque,22,6,1,191,22
+El Bosque,Universidad Del Quindio,8,6,0,214,19
+Norte,La Clarita,9,3,1,378,30
+Estadio Centenario,Centro,6,0,1,251,28
+Estadio Centenario,Portal Del Quindio,3,5,0,192,20
+Sur,Terminal Del Sur,3,4,2,120,32
+Norte,Mercado Minorista Quindiano,18,5,0,483,11
+Centro,Mercado Minorista Quindiano,9,4,1,261,24
+El Bosque,Portal Del Quindio,20,5,0,77,21
+Terminal Del Sur,Centro,11,3,0,133,23
+Universidad Del Quindio,Centro,10,1,1,141,24
+Sur,Portal Del Quindio,6,5,2,424,22
+Sur,La Clarita,19,4,0,432,12
+Terminal Del Sur,Mercado Minorista Quindiano,6,5,2,336,35
+Portal Del Quindio,La Clarita,4,0,0,100,19
+La Clarita,Estadio Centenario,11,6,1,108,21
+Portal Del Quindio,El Bosque,23,0,0,162,23
+Norte,Terminal Del Sur,16,1,0,101,21
+Portal Del Quindio,Norte,6,1,0,312,14
+Norte,El Bosque,16,0,0,162,11
+Norte,Mercado Minorista Quindiano,1,3,0,103,16
+Portal Del Quindio,La Clarita,4,0,1,178,18
+Sur,Estadio Centenario,1,4,0,117,16
+Universidad Del Quindio,Mercado Minorista Quindiano,10,2,0,194,24
+Centro,Universidad Del Quindio,5,4,0,165,11
+Mercado Minorista Quindiano,Estadio Centenario,5,5,1,188,30
+Centro,Norte,15,0,0,173,20
+La Clarita,Centro,5,4,0,52,13
+Portal Del Quindio,Terminal Del Sur,3,2,0,139,12
+Mercado Minorista Quindiano,Sur,18,3,0,398,13
+Portal Del Quindio,Centro,8,0,0,327,16
+Estadio Centenario,Centro,17,0,0,466,21
+Estadio Centenario,Norte,17,6,2,497,24
+Portal Del Quindio,Sur,6,3,0,343,19
+Universidad Del Quindio,Portal Del Quindio,15,0,2,109,22
+Sur,Universidad Del Quindio,1,0,0,97,23
+Mercado Minorista Quindiano,El Bosque,11,4,1,86,26
+El Bosque,Universidad Del Quindio,22,0,1,148,18
+Estadio Centenario,Universidad Del Quindio,15,2,0,197,17
+El Bosque,Portal Del Quindio,21,0,1,165,26
+Estadio Centenario,Norte,16,3,1,153,19
+Terminal Del Sur,Universidad Del Quindio,2,5,0,148,18
+Estadio Centenario,Sur,17,5,0,393,15
+Estadio Centenario,Centro,2,4,1,117,16
+Centro,El Bosque,13,4,0,97,13
+Terminal Del Sur,Portal Del Quindio,23,6,0,194,10
+Norte,Sur,15,3,0,164,15
+Terminal Del Sur,Estadio Centenario,22,5,0,87,15
+El Bosque,Portal Del Quindio,12,2,1,57,26
+El Bosque,Universidad Del Quindio,1,4,0,79,10
+El Bosque,Estadio Centenario,14,0,0,110,12
+Centro,Norte,3,2,0,98,10
+Terminal Del Sur,Centro,11,3,0,95,14
+Portal Del Quindio,Terminal Del Sur,5,2,0,173,18
+La Clarita,Centro,4,4,1,95,20
+Sur,Estadio Centenario,2,3,1,165,30
+Terminal Del Sur,Estadio Centenario,20,6,0,116,11
+Estadio Centenario,El Bosque,9,6,1,253,25
+Sur,La Clarita,2,5,0,73,11
+Centro,Terminal Del Sur,14,5,0,176,20
+El Bosque,Portal Del Quindio,9,1,1,472,23
+El Bosque,Terminal Del Sur,0,0,0,92,15
+Norte,Sur,15,6,1,75,18
+Norte,Centro,17,0,0,212,21
+Sur,La Clarita,6,0,0,235,22
+Universidad Del Quindio,Terminal Del Sur,19,0,1,463,29
+Centro,Sur,15,5,1,164,22
+Sur,Terminal Del Sur,14,3,0,147,11
+La Clarita,Terminal Del Sur,22,6,0,135,12
+Sur,Norte,21,1,0,107,15
+Norte,Mercado Minorista Quindiano,16,3,0,119,24
+Portal Del Quindio,Centro,21,2,0,150,10
+Estadio Centenario,Mercado Minorista Quindiano,7,4,1,259,27
+Portal Del Quindio,Sur,11,4,1,152,19
+Mercado Minorista Quindiano,Norte,5,4,0,165,23
+La Clarita,Universidad Del Quindio,14,2,2,104,29
+Portal Del Quindio,La Clarita,19,4,0,323,19
+Centro,Universidad Del Quindio,18,0,2,319,36
+Portal Del Quindio,El Bosque,18,3,1,257,22
+El Bosque,Portal Del Quindio,4,1,0,166,23
+Portal Del Quindio,Universidad Del Quindio,22,6,0,186,21
+Centro,La Clarita,20,0,0,107,19
+Estadio Centenario,Mercado Minorista Quindiano,0,6,1,83,29
+La Clarita,Norte,21,0,0,166,10
+El Bosque,Sur,15,4,0,118,15
+El Bosque,Norte,22,2,0,125,19
+Mercado Minorista Quindiano,La Clarita,15,2,1,135,24
+Terminal Del Sur,Estadio Centenario,13,3,0,118,24
+Terminal Del Sur,Portal Del Quindio,16,5,0,193,19
+Mercado Minorista Quindiano,Norte,15,4,0,88,13
+Estadio Centenario,Portal Del Quindio,0,5,0,150,16
+Centro,Mercado Minorista Quindiano,9,5,1,299,17
+Centro,La Clarita,19,6,0,449,12
+Mercado Minorista Quindiano,La Clarita,0,4,0,53,17
+El Bosque,Terminal Del Sur,15,6,0,51,10
+Mercado Minorista Quindiano,Universidad Del Quindio,19,3,2,377,24
+Terminal Del Sur,El Bosque,0,0,0,150,21
+Norte,La Clarita,2,0,0,123,20
+Mercado Minorista Quindiano,La Clarita,11,4,0,190,21
+Universidad Del Quindio,Portal Del Quindio,13,1,0,84,16
+Sur,Centro,16,1,0,57,22
+Terminal Del Sur,La Clarita,9,1,0,314,18
+Portal Del Quindio,La Clarita,6,3,0,313,22
+Portal Del Quindio,Sur,10,4,0,169,13
+Portal Del Quindio,Estadio Centenario,20,4,1,187,20
+Universidad Del Quindio,Mercado Minorista Quindiano,8,2,1,376,18
+Mercado Minorista Quindiano,Estadio Centenario,15,3,0,145,17
+Sur,Norte,22,5,2,86,33
+Centro,Universidad Del Quindio,16,6,0,62,16
+Estadio Centenario,Universidad Del Quindio,2,0,0,79,10
+Portal Del Quindio,Centro,16,5,0,133,18
+Universidad Del Quindio,Terminal Del Sur,21,4,1,68,16
+Universidad Del Quindio,Terminal Del Sur,3,3,0,196,21
+Estadio Centenario,Universidad Del Quindio,8,6,1,483,29
+Universidad Del Quindio,Estadio Centenario,19,2,0,343,14
+Portal Del Quindio,La Clarita,4,2,1,189,24
+Portal Del Quindio,La Clarita,19,2,0,252,16
+El Bosque,Portal Del Quindio,15,0,0,88,22
+La Clarita,Terminal Del Sur,20,1,0,191,24
+Sur,El Bosque,4,2,0,124,11
+Sur,El Bosque,14,3,0,58,19
+Mercado Minorista Quindiano,La Clarita,11,0,0,56,23
+Mercado Minorista Quindiano,Norte,12,1,0,186,11
+Mercado Minorista Quindiano,Universidad Del Quindio,1,4,1,78,20
+Norte,Universidad Del Quindio,5,2,0,185,22
+La Clarita,El Bosque,0,5,2,194,36
+Mercado Minorista Quindiano,Terminal Del Sur,6,0,1,331,19
+Terminal Del Sur,Portal Del Quindio,5,3,0,68,22
+El Bosque,Universidad Del Quindio,11,5,0,140,19
+Mercado Minorista Quindiano,La Clarita,18,6,1,325,18
+Sur,Estadio Centenario,12,4,2,175,31
+Estadio Centenario,Norte,19,3,1,200,18
+Norte,Sur,12,3,1,162,24
+Universidad Del Quindio,Sur,23,0,0,166,15
+Mercado Minorista Quindiano,La Clarita,11,4,0,110,24
+La Clarita,Mercado Minorista Quindiano,20,5,1,196,19
+Mercado Minorista Quindiano,El Bosque,17,6,1,432,16
+Estadio Centenario,Norte,13,6,1,50,20
+Centro,Norte,21,5,2,52,28
+Portal Del Quindio,Norte,10,3,1,123,23
+Universidad Del Quindio,Centro,5,3,0,166,17
+Portal Del Quindio,Estadio Centenario,3,1,1,185,25
+Sur,Centro,17,3,1,419,20
+El Bosque,Centro,8,3,0,391,20
+El Bosque,Universidad Del Quindio,21,6,0,194,18
+Portal Del Quindio,Centro,0,4,0,190,23
+Portal Del Quindio,Centro,2,4,1,183,17
+Terminal Del Sur,Centro,18,4,1,209,23
+Norte,Mercado Minorista Quindiano,17,2,0,204,16
+La Clarita,Centro,23,0,0,167,10
+La Clarita,Norte,17,6,1,376,26
+Centro,Universidad Del Quindio,20,1,1,112,24
+Universidad Del Quindio,Sur,21,2,0,76,10
+Estadio Centenario,El Bosque,12,0,2,147,30
+Universidad Del Quindio,Estadio Centenario,2,6,0,178,14
+Terminal Del Sur,El Bosque,15,6,0,55,21
+Portal Del Quindio,Centro,16,4,0,144,14
+Universidad Del Quindio,Portal Del Quindio,5,2,1,72,20
+Mercado Minorista Quindiano,La Clarita,20,4,0,132,10
+La Clarita,Sur,20,5,0,159,10
+La Clarita,El Bosque,18,4,0,404,13
+Terminal Del Sur,El Bosque,0,0,0,81,11
+Estadio Centenario,Portal Del Quindio,7,6,0,353,19
+Mercado Minorista Quindiano,Estadio Centenario,1,5,0,167,12
+Portal Del Quindio,Estadio Centenario,17,3,1,253,27
+Norte,Sur,4,5,0,106,10
+Mercado Minorista Quindiano,Portal Del Quindio,15,6,0,96,16
+Terminal Del Sur,La Clarita,14,4,0,134,23
+Estadio Centenario,La Clarita,1,2,0,152,15
+Estadio Centenario,La Clarita,1,5,0,99,11
+Universidad Del Quindio,El Bosque,17,5,0,448,15
+Portal Del Quindio,Centro,0,6,1,79,22
+Estadio Centenario,Sur,9,2,0,280,14
+Universidad Del Quindio,El Bosque,3,1,2,194,31
+Estadio Centenario,El Bosque,16,3,1,133,23
+El Bosque,Portal Del Quindio,4,1,0,55,14
+El Bosque,Norte,1,4,1,175,26
+Norte,Centro,10,2,0,164,24
+Sur,Estadio Centenario,22,6,0,129,24
+Norte,La Clarita,10,5,0,193,17
+Universidad Del Quindio,La Clarita,3,3,0,74,12
+Norte,La Clarita,2,2,1,142,17
+Centro,Universidad Del Quindio,18,2,0,476,14
+Terminal Del Sur,Norte,17,3,0,369,22
+Terminal Del Sur,El Bosque,21,4,0,119,10
+Portal Del Quindio,Centro,4,0,0,61,19
+Mercado Minorista Quindiano,Portal Del Quindio,13,1,1,127,25
+Universidad Del Quindio,El Bosque,12,2,2,122,31
+El Bosque,Norte,14,0,1,105,29
+Portal Del Quindio,El Bosque,10,6,0,97,22
+Centro,Portal Del Quindio,16,1,0,85,10
+Estadio Centenario,Centro,7,0,0,452,13
+Mercado Minorista Quindiano,Estadio Centenario,14,6,1,176,23
+Norte,El Bosque,21,5,0,77,16
+El Bosque,Estadio Centenario,13,1,0,158,19
+Portal Del Quindio,La Clarita,13,2,1,105,18
+Portal Del Quindio,Universidad Del Quindio,6,2,0,310,16
+Portal Del Quindio,Sur,13,2,1,67,25
+Centro,Norte,5,2,0,164,24
+El Bosque,La Clarita,22,4,0,77,19
+Universidad Del Quindio,El Bosque,6,0,2,472,28
+Estadio Centenario,Terminal Del Sur,21,1,0,175,21
+Centro,Norte,16,4,1,74,19
+Terminal Del Sur,El Bosque,9,2,0,432,22
+Portal Del Quindio,Norte,17,6,1,427,30
+El Bosque,Norte,21,1,1,160,23
+Estadio Centenario,Universidad Del Quindio,7,0,1,435,18
+Terminal Del Sur,Mercado Minorista Quindiano,9,0,1,300,21
+Centro,Estadio Centenario,19,1,0,425,20
+La Clarita,Mercado Minorista Quindiano,23,2,2,158,27
+La Clarita,Universidad Del Quindio,4,0,1,82,20
+Mercado Minorista Quindiano,Terminal Del Sur,21,4,0,119,16
+Centro,Mercado Minorista Quindiano,15,3,0,143,20
+Centro,Universidad Del Quindio,23,6,1,186,22
+Norte,Terminal Del Sur,2,2,0,80,17
+Norte,El Bosque,4,3,0,55,11
+Terminal Del Sur,Universidad Del Quindio,19,3,1,274,19
+Portal Del Quindio,La Clarita,14,5,0,167,10
+El Bosque,Estadio Centenario,23,5,1,111,24
+Norte,El Bosque,1,6,1,185,25
+Norte,Terminal Del Sur,18,4,0,499,14
+Portal Del Quindio,Centro,5,1,0,167,13
+Centro,Portal Del Quindio,18,3,0,424,13
+El Bosque,Terminal Del Sur,16,3,1,96,16
+Universidad Del Quindio,Estadio Centenario,13,5,0,86,23
+Estadio Centenario,Sur,10,6,0,149,22
+Terminal Del Sur,Estadio Centenario,10,2,1,183,17
+Centro,La Clarita,23,1,2,54,28
+La Clarita,Terminal Del Sur,9,3,0,212,17
+Norte,La Clarita,1,3,1,114,30
+Terminal Del Sur,Universidad Del Quindio,4,0,1,66,24
+Universidad Del Quindio,La Clarita,10,6,0,87,16
+Estadio Centenario,Mercado Minorista Quindiano,2,5,0,144,10
+La Clarita,Portal Del Quindio,4,5,1,127,20
+Mercado Minorista Quindiano,Portal Del Quindio,23,2,1,186,17
+La Clarita,Estadio Centenario,11,2,1,84,16
+Mercado Minorista Quindiano,Sur,7,5,0,259,22
+Norte,Portal Del Quindio,7,2,0,428,23
+Terminal Del Sur,La Clarita,2,4,2,54,24
+Universidad Del Quindio,Centro,13,1,0,111,13
+Universidad Del Quindio,Norte,12,1,1,138,17
+Sur,Centro,7,6,0,303,23
+El Bosque,Mercado Minorista Quindiano,18,4,1,222,30
+Centro,Mercado Minorista Quindiano,14,0,2,194,22
+Mercado Minorista Quindiano,La Clarita,14,6,2,102,29
+Universidad Del Quindio,Terminal Del Sur,7,2,0,238,12
+Centro,El Bosque,5,5,2,116,28
+Portal Del Quindio,Centro,18,1,0,214,24
+Centro,Sur,0,3,0,87,18
+El Bosque,Norte,0,4,0,82,23
+Norte,La Clarita,3,5,0,115,19
+Mercado Minorista Quindiano,Sur,4,2,0,123,10
+Mercado Minorista Quindiano,Sur,21,5,0,190,24
+Centro,Universidad Del Quindio,14,3,1,158,23
+Terminal Del Sur,Sur,19,6,0,356,17
+El Bosque,Estadio Centenario,4,4,0,96,13
+Norte,Estadio Centenario,11,4,1,179,26
+Sur,Centro,18,2,0,491,19
+La Clarita,El Bosque,10,2,1,118,19
+El Bosque,Estadio Centenario,10,5,1,123,23
+Mercado Minorista Quindiano,Estadio Centenario,5,5,0,72,24
+Mercado Minorista Quindiano,La Clarita,13,2,0,189,19
+El Bosque,Norte,12,5,1,160,23
+El Bosque,Norte,10,3,0,149,13
+Norte,Estadio Centenario,4,4,2,121,36
+Portal Del Quindio,Mercado Minorista Quindiano,9,0,0,291,24
+Portal Del Quindio,La Clarita,8,5,1,250,28
+Sur,Centro,13,0,1,60,22
+El Bosque,Estadio Centenario,0,5,0,150,14
+La Clarita,Sur,13,3,0,106,10
+El Bosque,Mercado Minorista Quindiano,21,6,1,164,23
+Sur,Terminal Del Sur,14,4,1,102,24
+Estadio Centenario,El Bosque,9,3,1,316,25
+Universidad Del Quindio,El Bosque,8,2,1,262,19
+Centro,Estadio Centenario,10,5,1,179,22
+Portal Del Quindio,Universidad Del Quindio,17,2,1,216,26
+La Clarita,Centro,11,2,1,74,22
+Estadio Centenario,Centro,19,5,0,360,10
+El Bosque,Universidad Del Quindio,10,5,2,163,26
+Centro,El Bosque,16,6,0,130,13
+Terminal Del Sur,Estadio Centenario,8,0,0,347,15
+Terminal Del Sur,Portal Del Quindio,21,3,1,112,28
+Universidad Del Quindio,El Bosque,7,0,1,456,28
+Norte,Centro,22,2,0,172,17
+Universidad Del Quindio,Centro,18,5,0,231,23
+Estadio Centenario,Sur,16,4,0,79,17
+La Clarita,Terminal Del Sur,18,1,0,456,23
+Sur,Universidad Del Quindio,18,6,1,393,21
+Terminal Del Sur,Mercado Minorista Quindiano,16,1,1,112,19
+La Clarita,Portal Del Quindio,0,4,0,104,16
+Portal Del Quindio,Mercado Minorista Quindiano,2,1,0,159,11
+La Clarita,Terminal Del Sur,0,6,1,104,27
+Norte,Universidad Del Quindio,17,6,0,207,10
+Centro,Estadio Centenario,22,2,0,121,15
+Portal Del Quindio,Norte,14,4,0,116,12
+La Clarita,Portal Del Quindio,0,3,1,57,17
+Portal Del Quindio,Centro,2,5,1,81,23
+Terminal Del Sur,Portal Del Quindio,13,2,1,193,19
+Sur,Norte,19,4,0,381,14
+Sur,Portal Del Quindio,13,6,0,104,11
+Sur,Centro,6,1,1,462,16
+Norte,Mercado Minorista Quindiano,22,4,1,196,28
+La Clarita,Norte,18,3,0,484,21
+Norte,Portal Del Quindio,17,1,1,396,19
+Centro,Estadio Centenario,10,1,0,179,12
+La Clarita,Terminal Del Sur,22,6,0,189,13
+Universidad Del Quindio,Terminal Del Sur,4,4,0,186,11
+Terminal Del Sur,Norte,20,3,2,148,25
+Estadio Centenario,El Bosque,21,3,0,73,10
+Norte,Centro,9,5,1,319,26
+Mercado Minorista Quindiano,Centro,13,6,0,177,10
+Universidad Del Quindio,Centro,17,2,1,408,29
+Sur,Centro,8,1,0,436,18
+Terminal Del Sur,Estadio Centenario,6,0,1,445,21
+Terminal Del Sur,Estadio Centenario,10,5,0,53,19
+Estadio Centenario,Mercado Minorista Quindiano,12,1,0,86,20
+Centro,Terminal Del Sur,5,1,1,177,20
+Universidad Del Quindio,Portal Del Quindio,9,3,0,240,15
+Universidad Del Quindio,Mercado Minorista Quindiano,1,0,0,171,21
+Centro,Mercado Minorista Quindiano,22,4,0,155,15
+El Bosque,Mercado Minorista Quindiano,20,2,1,106,30
+Universidad Del Quindio,Centro,5,2,0,147,21
+Centro,Sur,12,0,0,102,16
+La Clarita,Sur,9,4,0,389,19
+Terminal Del Sur,Estadio Centenario,13,1,0,103,20
+Centro,Universidad Del Quindio,0,2,0,85,12
+Mercado Minorista Quindiano,Norte,20,2,1,89,26
+La Clarita,Centro,3,0,0,88,17
+Portal Del Quindio,Sur,2,5,1,147,22
+Centro,Mercado Minorista Quindiano,14,5,1,199,20
+El Bosque,Portal Del Quindio,23,0,1,85,30
+Terminal Del Sur,Estadio Centenario,19,2,0,426,13
+El Bosque,Norte,10,0,0,158,20
+El Bosque,Mercado Minorista Quindiano,1,0,0,122,18
+Sur,Portal Del Quindio,7,0,0,328,18
+Mercado Minorista Quindiano,Centro,10,1,0,74,16
+Norte,Sur,2,2,1,157,27
+Mercado Minorista Quindiano,Estadio Centenario,18,5,0,301,11
+La Clarita,El Bosque,11,2,1,150,27
+Terminal Del Sur,Centro,16,4,1,66,25
+Terminal Del Sur,Norte,22,0,1,96,27
+Mercado Minorista Quindiano,Estadio Centenario,15,2,1,57,30
+Portal Del Quindio,Terminal Del Sur,20,0,0,167,15
+Mercado Minorista Quindiano,Centro,7,0,0,288,21
+Terminal Del Sur,Universidad Del Quindio,14,2,0,158,19
+El Bosque,Norte,14,1,0,65,16
+Terminal Del Sur,Norte,16,6,0,75,14
+El Bosque,Portal Del Quindio,21,1,1,184,29
+El Bosque,Mercado Minorista Quindiano,14,4,0,56,18
+Universidad Del Quindio,Mercado Minorista Quindiano,18,1,0,414,22
+Mercado Minorista Quindiano,Terminal Del Sur,17,6,1,302,16
+La Clarita,Centro,13,6,0,157,21
+Norte,Universidad Del Quindio,12,1,0,180,14
+Centro,Mercado Minorista Quindiano,10,1,0,157,16
+Terminal Del Sur,Mercado Minorista Quindiano,14,0,1,53,28
+Centro,Universidad Del Quindio,21,0,0,190,11
+La Clarita,Sur,0,4,1,157,29
+La Clarita,Centro,1,6,0,83,23
+Centro,El Bosque,22,4,0,190,11
+Mercado Minorista Quindiano,Terminal Del Sur,2,2,0,88,23
+El Bosque,Mercado Minorista Quindiano,19,4,0,444,21
+Sur,Centro,15,3,0,170,19
+Centro,Terminal Del Sur,6,3,0,264,23
+La Clarita,Mercado Minorista Quindiano,16,2,1,191,23
+Sur,El Bosque,17,3,0,345,23
+El Bosque,Portal Del Quindio,4,0,0,122,24
+Sur,Centro,16,0,0,137,13
+Universidad Del Quindio,Estadio Centenario,11,2,1,86,28
+Universidad Del Quindio,La Clarita,4,2,1,173,21
+Sur,Estadio Centenario,6,6,0,210,23
+Universidad Del Quindio,El Bosque,12,1,1,101,19
+La Clarita,Terminal Del Sur,7,3,0,262,15
+Universidad Del Quindio,Estadio Centenario,20,2,0,159,19
+La Clarita,El Bosque,10,1,0,106,19
+Centro,Terminal Del Sur,8,0,0,458,17
+Terminal Del Sur,Estadio Centenario,5,4,1,54,21
+Norte,Estadio Centenario,14,6,1,58,18
+Portal Del Quindio,Mercado Minorista Quindiano,19,1,1,440,28
+Norte,Estadio Centenario,9,2,0,377,11
+La Clarita,Centro,16,2,0,62,17
+Sur,Norte,14,0,0,122,13
+Universidad Del Quindio,Estadio Centenario,13,4,0,147,20
+Terminal Del Sur,Sur,8,2,0,322,21
+El Bosque,Universidad Del Quindio,8,2,0,425,21
+La Clarita,Norte,9,0,1,239,24
+Centro,Mercado Minorista Quindiano,4,2,0,173,24
+Mercado Minorista Quindiano,El Bosque,5,2,0,182,19
+Terminal Del Sur,Sur,17,5,0,236,21
+Terminal Del Sur,Sur,15,4,1,77,20
+Mercado Minorista Quindiano,Sur,12,0,0,163,17
+Centro,La Clarita,12,5,0,142,12
+La Clarita,Sur,2,1,1,89,26
+Estadio Centenario,Centro,12,4,1,82,21
+La Clarita,Norte,23,2,0,129,17
+Sur,El Bosque,0,2,0,108,18
+Universidad Del Quindio,Portal Del Quindio,12,2,0,94,18
+Sur,Portal Del Quindio,20,1,0,149,24
+Centro,Terminal Del Sur,5,3,1,56,20
+Estadio Centenario,Norte,10,4,2,107,30
+Terminal Del Sur,Sur,18,6,0,222,19
+Sur,Portal Del Quindio,9,2,0,357,16
+Terminal Del Sur,Sur,17,3,1,457,29
+La Clarita,Portal Del Quindio,12,4,1,61,22
+Universidad Del Quindio,Portal Del Quindio,1,4,0,95,20
+El Bosque,Estadio Centenario,16,0,1,66,23
+Terminal Del Sur,Universidad Del Quindio,1,3,0,137,22
+El Bosque,Universidad Del Quindio,2,5,0,123,18
+Mercado Minorista Quindiano,Sur,1,6,1,109,30
+Sur,La Clarita,4,4,0,71,13
+Universidad Del Quindio,La Clarita,19,3,0,441,13
+Centro,Terminal Del Sur,16,3,1,199,16
+Sur,La Clarita,9,5,0,392,15
+Estadio Centenario,Sur,23,2,1,99,29
+Portal Del Quindio,Estadio Centenario,14,4,2,174,33
+Mercado Minorista Quindiano,Norte,6,4,0,232,15
+La Clarita,Portal Del Quindio,14,6,0,107,16
+Centro,Mercado Minorista Quindiano,1,5,0,78,13
+La Clarita,Centro,16,2,1,190,24
+Sur,Portal Del Quindio,6,6,0,484,22
+Universidad Del Quindio,Sur,10,3,1,81,17
+Terminal Del Sur,Norte,14,5,1,133,21
+Portal Del Quindio,Sur,10,2,0,130,23
+Terminal Del Sur,Estadio Centenario,11,3,0,70,24
+El Bosque,Portal Del Quindio,15,4,0,133,15
+Norte,El Bosque,18,0,0,456,19
+Terminal Del Sur,Universidad Del Quindio,5,6,0,113,10
+Universidad Del Quindio,Terminal Del Sur,23,3,0,67,24
+Estadio Centenario,Portal Del Quindio,11,2,1,121,27
+Norte,Mercado Minorista Quindiano,13,0,0,194,22
+Mercado Minorista Quindiano,Sur,20,6,1,76,29
+La Clarita,Centro,17,3,1,398,18
+Estadio Centenario,Terminal Del Sur,11,4,0,73,21
+Universidad Del Quindio,Norte,2,3,2,95,36
+El Bosque,Norte,13,6,0,66,23
+Centro,Mercado Minorista Quindiano,11,3,0,58,15
+Centro,Mercado Minorista Quindiano,15,0,0,112,15
+La Clarita,Terminal Del Sur,21,4,0,166,11
+Sur,Estadio Centenario,23,2,1,113,28
+Sur,Portal Del Quindio,16,4,0,67,23
+Universidad Del Quindio,Norte,17,5,0,294,15
+Norte,El Bosque,10,4,1,82,27
+El Bosque,Terminal Del Sur,5,0,0,185,20
+Estadio Centenario,Universidad Del Quindio,21,2,0,137,18
+Portal Del Quindio,La Clarita,16,3,0,170,23
+Norte,Mercado Minorista Quindiano,14,5,0,135,21
+La Clarita,Universidad Del Quindio,19,0,1,401,23
+Mercado Minorista Quindiano,La Clarita,17,3,1,201,16
+Universidad Del Quindio,La Clarita,0,0,1,126,19
+Centro,Universidad Del Quindio,21,6,0,152,19
+Terminal Del Sur,Sur,13,1,0,192,11
+La Clarita,Centro,9,6,0,322,15
+El Bosque,La Clarita,8,5,0,272,16
+Mercado Minorista Quindiano,Sur,8,1,1,403,23
+Norte,Mercado Minorista Quindiano,7,1,1,283,29
+Norte,Sur,14,2,1,176,22
+Estadio Centenario,Sur,10,3,1,181,21
+Terminal Del Sur,Universidad Del Quindio,21,1,0,176,12
+Centro,El Bosque,8,3,1,213,26
+Mercado Minorista Quindiano,Norte,17,5,1,211,22
+La Clarita,Mercado Minorista Quindiano,11,4,0,74,22
+Centro,Portal Del Quindio,18,1,0,346,16
+Mercado Minorista Quindiano,La Clarita,13,3,1,185,28
+Centro,Norte,22,4,1,81,18
+Mercado Minorista Quindiano,Terminal Del Sur,11,1,0,195,12
+El Bosque,Estadio Centenario,21,4,0,145,17
+Terminal Del Sur,El Bosque,8,2,2,330,33
+Portal Del Quindio,Centro,9,2,0,234,22
+Centro,Estadio Centenario,21,6,0,146,16
+Universidad Del Quindio,Centro,11,0,2,143,26
+La Clarita,Mercado Minorista Quindiano,23,3,1,86,19
+El Bosque,La Clarita,11,5,1,69,27
+Sur,Mercado Minorista Quindiano,23,1,0,145,18
+Centro,El Bosque,3,1,1,166,17
+Universidad Del Quindio,Norte,3,1,0,128,11
+Terminal Del Sur,La Clarita,3,5,0,88,19
+Estadio Centenario,Sur,18,2,1,385,21
+El Bosque,Universidad Del Quindio,11,2,1,67,23
+Estadio Centenario,Mercado Minorista Quindiano,20,6,1,148,25
+Centro,Portal Del Quindio,7,3,1,439,29
+Universidad Del Quindio,Estadio Centenario,22,1,1,63,29
+Estadio Centenario,Sur,1,6,1,86,20
+Estadio Centenario,Norte,5,4,1,90,29
+El Bosque,Sur,21,3,0,174,24
+Portal Del Quindio,Mercado Minorista Quindiano,13,6,1,133,17
+El Bosque,Centro,6,5,0,344,20
+Estadio Centenario,El Bosque,1,2,0,54,24
+El Bosque,Terminal Del Sur,0,3,0,94,16
+Sur,Portal Del Quindio,14,6,0,188,19
+Terminal Del Sur,La Clarita,2,5,1,63,25
+Norte,Sur,9,3,0,456,14
+Terminal Del Sur,El Bosque,19,2,1,200,24
+Mercado Minorista Quindiano,Norte,21,3,0,77,18
+Estadio Centenario,El Bosque,10,4,1,98,16
+Portal Del Quindio,Universidad Del Quindio,23,3,0,105,21
+Centro,Norte,14,6,0,183,21
+Mercado Minorista Quindiano,Estadio Centenario,19,1,0,329,18
+La Clarita,Sur,4,3,0,75,22
+La Clarita,Mercado Minorista Quindiano,0,6,1,84,21
+La Clarita,Terminal Del Sur,4,4,0,108,14
+La Clarita,Portal Del Quindio,0,0,0,61,19
+El Bosque,Estadio Centenario,19,4,0,441,17
+Centro,Norte,10,5,0,99,22
+Mercado Minorista Quindiano,Universidad Del Quindio,6,6,0,383,24
+Sur,Mercado Minorista Quindiano,10,1,1,87,19
+Portal Del Quindio,Sur,22,5,0,94,13
+Estadio Centenario,Universidad Del Quindio,15,1,0,173,16
+El Bosque,Estadio Centenario,7,1,0,328,16
+Mercado Minorista Quindiano,Terminal Del Sur,7,4,0,204,24
+Portal Del Quindio,El Bosque,21,6,0,83,10
+Norte,Centro,22,6,0,163,11
+Terminal Del Sur,Universidad Del Quindio,16,1,0,185,24
+Norte,Sur,7,0,0,275,20
+El Bosque,Mercado Minorista Quindiano,7,0,1,488,16
+Mercado Minorista Quindiano,Norte,18,6,0,341,14
+Portal Del Quindio,Mercado Minorista Quindiano,15,4,0,154,19
+Centro,Universidad Del Quindio,1,1,0,112,18
+Estadio Centenario,El Bosque,0,0,1,138,28
+Terminal Del Sur,Centro,8,4,0,276,24
+Centro,Universidad Del Quindio,8,2,0,297,22
+La Clarita,Terminal Del Sur,5,5,1,181,21
+Portal Del Quindio,Terminal Del Sur,18,5,0,281,22
+Norte,Centro,8,6,0,328,17
+La Clarita,Estadio Centenario,21,6,0,138,14
+Sur,Terminal Del Sur,14,0,0,125,19
+Terminal Del Sur,La Clarita,6,6,0,292,18
+Terminal Del Sur,El Bosque,0,0,0,84,21
+Estadio Centenario,Terminal Del Sur,5,1,0,60,12
+Terminal Del Sur,El Bosque,7,5,0,464,12
+Norte,Mercado Minorista Quindiano,20,1,0,121,11
+Centro,Universidad Del Quindio,5,3,0,166,22
+Norte,Estadio Centenario,11,4,0,97,14
+Terminal Del Sur,Portal Del Quindio,14,3,1,64,26
+Sur,Terminal Del Sur,15,6,1,119,29
+Mercado Minorista Quindiano,Sur,17,3,1,220,22
+Terminal Del Sur,Centro,10,6,0,129,24
+Universidad Del Quindio,La Clarita,20,3,0,192,18
+Mercado Minorista Quindiano,Portal Del Quindio,3,2,0,100,24
+Terminal Del Sur,Universidad Del Quindio,3,4,1,190,21
+Norte,Portal Del Quindio,18,1,0,251,23
+Estadio Centenario,La Clarita,14,3,1,84,23
+Mercado Minorista Quindiano,La Clarita,15,1,1,195,17
+Estadio Centenario,La Clarita,16,4,0,181,19
+El Bosque,Estadio Centenario,10,6,0,144,21
+Portal Del Quindio,La Clarita,9,6,0,358,16
+Portal Del Quindio,La Clarita,23,0,1,91,23
+Universidad Del Quindio,La Clarita,3,3,0,167,16
+Estadio Centenario,El Bosque,21,0,0,169,22
+Terminal Del Sur,Estadio Centenario,9,6,0,340,16
+Mercado Minorista Quindiano,La Clarita,21,5,1,70,21
+El Bosque,Norte,8,1,0,208,24
+Centro,Mercado Minorista Quindiano,9,1,1,320,28
+Universidad Del Quindio,Portal Del Quindio,9,0,0,353,20
+Estadio Centenario,El Bosque,4,3,1,99,23
+Sur,Centro,18,3,1,259,22
+Portal Del Quindio,Norte,9,0,1,345,18
+Portal Del Quindio,Norte,3,1,0,118,24
+La Clarita,Estadio Centenario,16,2,0,157,11
+Sur,Norte,0,6,2,198,22
+Sur,Universidad Del Quindio,21,4,2,192,24
+Universidad Del Quindio,Estadio Centenario,6,2,1,337,24
+El Bosque,Mercado Minorista Quindiano,13,4,0,51,12
+Norte,Sur,6,4,1,345,18
+Norte,Portal Del Quindio,9,5,0,324,16
+Sur,Norte,8,0,1,479,27
+Universidad Del Quindio,Sur,13,2,2,117,31
+El Bosque,Norte,5,1,0,81,16
+Terminal Del Sur,Centro,12,5,1,85,23
+Universidad Del Quindio,Terminal Del Sur,4,0,0,180,18
+Sur,Terminal Del Sur,7,0,0,269,18
+Portal Del Quindio,Centro,6,3,0,468,10
+Universidad Del Quindio,El Bosque,1,3,1,54,27
+La Clarita,El Bosque,20,5,0,99,12
+Portal Del Quindio,Sur,21,3,1,174,25
+Mercado Minorista Quindiano,Universidad Del Quindio,2,5,0,119,11
+Centro,Universidad Del Quindio,22,3,1,51,21
+Sur,Estadio Centenario,16,2,0,147,16
+Portal Del Quindio,Norte,19,5,0,499,19
+Portal Del Quindio,Estadio Centenario,3,4,2,126,34
+El Bosque,Norte,14,0,0,104,19
+La Clarita,Portal Del Quindio,22,3,0,194,21
+Centro,Estadio Centenario,7,3,0,202,23
+Mercado Minorista Quindiano,Terminal Del Sur,12,6,2,141,24
+El Bosque,Centro,7,5,2,204,25
+La Clarita,Portal Del Quindio,7,3,0,320,23
+Sur,Estadio Centenario,20,3,0,199,11
+Terminal Del Sur,La Clarita,7,6,0,487,10
+Estadio Centenario,Universidad Del Quindio,20,3,1,87,19
+Portal Del Quindio,El Bosque,1,4,1,191,19
+Centro,Terminal Del Sur,0,6,0,163,22
+La Clarita,Centro,1,0,1,134,17
+Estadio Centenario,Terminal Del Sur,8,0,0,379,23
+Estadio Centenario,Sur,22,1,0,104,15
+Estadio Centenario,Universidad Del Quindio,2,5,0,192,15
+Portal Del Quindio,Estadio Centenario,4,3,0,61,24
+Estadio Centenario,Universidad Del Quindio,16,1,1,131,28
+Estadio Centenario,Mercado Minorista Quindiano,2,5,0,183,12
+Norte,Terminal Del Sur,15,6,0,63,18
+El Bosque,Norte,14,4,0,115,20
+Norte,El Bosque,1,2,0,69,11
+Norte,Universidad Del Quindio,9,0,0,480,22
+Centro,Terminal Del Sur,21,0,2,144,35
+Centro,Estadio Centenario,0,5,0,129,15
+Mercado Minorista Quindiano,Sur,13,4,1,180,18
+Mercado Minorista Quindiano,La Clarita,8,5,1,224,28
+Mercado Minorista Quindiano,Universidad Del Quindio,20,1,0,185,14
+Estadio Centenario,Sur,1,3,1,74,30
+Sur,Terminal Del Sur,3,4,0,61,21
+Sur,El Bosque,12,6,1,127,19
+El Bosque,Estadio Centenario,17,4,1,359,28
+Estadio Centenario,Mercado Minorista Quindiano,10,5,1,179,27
+La Clarita,Sur,22,2,0,80,12
+Centro,Norte,4,2,1,59,24
+Norte,El Bosque,1,5,0,60,11
+Centro,Norte,23,6,0,132,18
+Norte,El Bosque,2,4,1,122,27
+Portal Del Quindio,Terminal Del Sur,13,2,0,56,21
+Norte,Portal Del Quindio,0,3,0,53,16
+El Bosque,Portal Del Quindio,7,0,1,300,22
+La Clarita,Mercado Minorista Quindiano,19,4,0,323,15
+Sur,Terminal Del Sur,6,1,0,262,14
+El Bosque,La Clarita,19,6,0,261,22
+Terminal Del Sur,Sur,2,6,1,141,21
+Universidad Del Quindio,Norte,13,6,2,135,26
+Mercado Minorista Quindiano,Terminal Del Sur,22,1,0,111,20
+Mercado Minorista Quindiano,Universidad Del Quindio,20,5,0,128,14
+Mercado Minorista Quindiano,Sur,9,6,1,264,28
+Portal Del Quindio,La Clarita,20,1,1,131,20
+Universidad Del Quindio,Norte,12,3,0,188,24
+Mercado Minorista Quindiano,Terminal Del Sur,20,3,0,166,19
+Mercado Minorista Quindiano,Portal Del Quindio,3,1,0,101,21
+La Clarita,Centro,17,2,1,432,28
+Centro,Terminal Del Sur,19,4,1,241,20
+El Bosque,Universidad Del Quindio,9,4,1,312,24
+Centro,El Bosque,16,0,1,178,17
+Estadio Centenario,Portal Del Quindio,15,4,0,146,19
+La Clarita,El Bosque,17,1,1,431,20
+Portal Del Quindio,Centro,10,6,1,83,23
+Portal Del Quindio,El Bosque,21,0,0,128,10
+Portal Del Quindio,Terminal Del Sur,22,4,0,118,21
+El Bosque,Universidad Del Quindio,0,6,0,150,17
+La Clarita,El Bosque,12,0,0,136,20
+Estadio Centenario,Universidad Del Quindio,0,4,0,66,14
+Universidad Del Quindio,La Clarita,19,4,1,431,25
+Mercado Minorista Quindiano,Norte,13,3,0,188,13
+Portal Del Quindio,Sur,14,2,0,184,12
+Estadio Centenario,Mercado Minorista Quindiano,18,2,0,460,14
+Portal Del Quindio,Mercado Minorista Quindiano,21,1,0,87,24
+Terminal Del Sur,Portal Del Quindio,15,3,0,130,24
+La Clarita,El Bosque,7,0,1,248,19
+Universidad Del Quindio,Estadio Centenario,3,5,0,154,18
+La Clarita,Sur,22,5,0,163,19
+Estadio Centenario,Universidad Del Quindio,20,3,0,189,20
+Estadio Centenario,Norte,7,1,0,468,14
+Centro,Norte,15,3,1,60,25
+Portal Del Quindio,Centro,14,0,1,195,22
+Estadio Centenario,Universidad Del Quindio,8,0,0,323,19
+Terminal Del Sur,Universidad Del Quindio,17,5,1,412,27
+Estadio Centenario,Terminal Del Sur,18,5,0,312,17
+Norte,Terminal Del Sur,20,2,1,171,29
+El Bosque,Norte,22,6,0,61,18
+Mercado Minorista Quindiano,Sur,14,1,0,198,22
+Centro,Terminal Del Sur,20,5,0,185,23
+Portal Del Quindio,Terminal Del Sur,7,5,0,334,16
+La Clarita,El Bosque,11,2,1,135,21
+Mercado Minorista Quindiano,Estadio Centenario,10,0,0,71,21
+Portal Del Quindio,La Clarita,12,1,1,51,28
+Norte,Sur,20,6,0,76,11
+Mercado Minorista Quindiano,Terminal Del Sur,14,2,0,137,21
+Norte,Portal Del Quindio,12,5,0,146,17
+Mercado Minorista Quindiano,La Clarita,2,6,0,167,12
+Centro,Terminal Del Sur,22,4,1,79,22
+Terminal Del Sur,Universidad Del Quindio,11,6,0,74,14
+Centro,La Clarita,14,1,1,193,23
+Norte,Portal Del Quindio,0,3,1,54,18
+Portal Del Quindio,Sur,0,3,1,153,18
+Mercado Minorista Quindiano,Centro,9,1,0,209,14
+Terminal Del Sur,Portal Del Quindio,13,6,0,115,18
+Mercado Minorista Quindiano,Terminal Del Sur,15,4,0,186,13
+Sur,Centro,3,5,0,139,19
+La Clarita,Norte,21,3,0,63,18
+Portal Del Quindio,Centro,1,4,0,170,13
+Terminal Del Sur,Mercado Minorista Quindiano,10,2,1,119,23
+El Bosque,Estadio Centenario,18,4,0,385,13
+La Clarita,Terminal Del Sur,14,4,1,181,19
+Terminal Del Sur,Mercado Minorista Quindiano,9,5,0,426,19
+Terminal Del Sur,El Bosque,4,5,1,103,23
+Centro,La Clarita,6,4,0,401,15
+Sur,Universidad Del Quindio,13,3,0,106,22
+Centro,Sur,19,0,0,318,16
+El Bosque,Estadio Centenario,3,4,0,63,12
+El Bosque,Centro,23,4,0,129,19
+Sur,Universidad Del Quindio,22,3,0,181,17
+Estadio Centenario,Terminal Del Sur,23,1,0,131,12
+Norte,Sur,18,0,0,410,15
+Centro,Mercado Minorista Quindiano,23,4,1,125,29
+Mercado Minorista Quindiano,Universidad Del Quindio,5,4,1,149,18
+Estadio Centenario,Portal Del Quindio,15,4,0,143,16
+Sur,Universidad Del Quindio,16,6,0,195,24
+El Bosque,La Clarita,19,0,0,450,21
+Sur,Centro,14,2,0,106,21
+El Bosque,Universidad Del Quindio,21,4,0,194,15
+Centro,Mercado Minorista Quindiano,3,3,0,96,20
+Portal Del Quindio,Estadio Centenario,14,5,0,96,23
+Portal Del Quindio,Estadio Centenario,10,6,0,186,19
+El Bosque,Norte,15,4,1,110,25
+Terminal Del Sur,Mercado Minorista Quindiano,17,2,1,306,16
+La Clarita,Universidad Del Quindio,21,4,2,130,32
+Terminal Del Sur,Sur,12,2,0,196,19
+Terminal Del Sur,Portal Del Quindio,2,5,0,118,22
+Sur,Universidad Del Quindio,4,3,1,98,20
+Universidad Del Quindio,Portal Del Quindio,9,4,0,269,19
+El Bosque,Universidad Del Quindio,3,5,0,88,11
+Terminal Del Sur,Portal Del Quindio,2,0,0,73,18
+Estadio Centenario,Sur,3,5,1,90,21
+Universidad Del Quindio,Portal Del Quindio,13,3,0,157,21
+El Bosque,Centro,19,0,1,235,20
+Mercado Minorista Quindiano,Estadio Centenario,23,3,0,155,23
+El Bosque,Portal Del Quindio,21,3,0,184,12
+Sur,Universidad Del Quindio,22,3,1,63,23
+Terminal Del Sur,Universidad Del Quindio,9,5,0,305,18
+Estadio Centenario,Terminal Del Sur,12,5,2,93,30
+Mercado Minorista Quindiano,Terminal Del Sur,12,3,0,156,13
+La Clarita,Terminal Del Sur,17,1,0,220,13
+Centro,Sur,17,0,1,206,21
+La Clarita,Sur,14,1,1,197,23
+Mercado Minorista Quindiano,La Clarita,14,6,1,198,25
+Norte,Sur,11,5,0,106,14
+Estadio Centenario,Terminal Del Sur,20,1,0,118,12
+Terminal Del Sur,Portal Del Quindio,22,1,0,98,12
+Mercado Minorista Quindiano,Estadio Centenario,18,0,1,360,17
+Estadio Centenario,Sur,20,3,0,176,19
+Norte,Estadio Centenario,6,5,0,488,10
+Mercado Minorista Quindiano,Centro,23,4,0,110,11
+Sur,Mercado Minorista Quindiano,10,0,0,135,10
+Universidad Del Quindio,Portal Del Quindio,16,1,0,147,10
+La Clarita,Estadio Centenario,9,4,0,204,11
+Universidad Del Quindio,La Clarita,21,0,0,115,19
+Norte,Sur,1,2,0,174,16
+La Clarita,Centro,21,3,1,137,30
+Portal Del Quindio,Terminal Del Sur,7,5,0,258,19
+Sur,Mercado Minorista Quindiano,2,2,0,112,10
+Universidad Del Quindio,Portal Del Quindio,6,4,1,219,25
+Sur,Universidad Del Quindio,3,5,0,165,15
+Terminal Del Sur,Portal Del Quindio,14,4,0,128,15
+Mercado Minorista Quindiano,Universidad Del Quindio,19,3,0,469,20
+Portal Del Quindio,El Bosque,8,1,0,483,19
+Centro,Sur,16,6,1,115,24
+La Clarita,Mercado Minorista Quindiano,23,5,0,180,17
+Centro,La Clarita,11,0,1,91,19
+La Clarita,Universidad Del Quindio,2,5,1,72,24
+La Clarita,Mercado Minorista Quindiano,17,2,1,396,18
+El Bosque,Centro,10,3,1,123,23
+Portal Del Quindio,La Clarita,23,3,0,90,13
+La Clarita,Sur,4,4,0,121,16
+Mercado Minorista Quindiano,Sur,8,6,0,437,17
+Mercado Minorista Quindiano,Sur,17,1,0,467,11
+Estadio Centenario,Sur,6,2,0,458,20
+Universidad Del Quindio,El Bosque,17,2,0,239,15
+La Clarita,Estadio Centenario,0,3,2,178,28
+Norte,Estadio Centenario,7,4,0,375,20
+Mercado Minorista Quindiano,Terminal Del Sur,4,3,0,159,15
+Universidad Del Quindio,Mercado Minorista Quindiano,18,0,1,211,26
+Universidad Del Quindio,Estadio Centenario,13,6,0,65,10
+Terminal Del Sur,Norte,12,6,1,70,29
+Norte,La Clarita,12,1,0,53,21
+El Bosque,Sur,5,1,1,108,22
+Universidad Del Quindio,Terminal Del Sur,4,0,0,180,10
+Terminal Del Sur,Centro,3,0,0,197,11
+Estadio Centenario,La Clarita,4,2,0,58,13
+Norte,Estadio Centenario,5,1,0,183,12
+Mercado Minorista Quindiano,Centro,11,0,1,188,17
+Portal Del Quindio,La Clarita,14,3,1,157,24
+El Bosque,Mercado Minorista Quindiano,20,1,1,180,27
+Centro,El Bosque,15,4,0,83,18
+Terminal Del Sur,La Clarita,18,6,1,274,24
+Mercado Minorista Quindiano,Sur,22,5,1,66,20
+Portal Del Quindio,Norte,11,2,0,143,24
+Estadio Centenario,El Bosque,2,0,0,174,11
+Sur,Mercado Minorista Quindiano,1,2,1,96,22
+Terminal Del Sur,El Bosque,5,0,1,197,27
+Centro,Portal Del Quindio,0,6,1,136,30
+Norte,La Clarita,2,3,1,96,21
+Sur,El Bosque,14,6,0,70,12
+La Clarita,Portal Del Quindio,20,4,1,95,19
+Universidad Del Quindio,Sur,13,3,0,194,16
+El Bosque,Universidad Del Quindio,8,2,0,451,22
+Centro,Sur,14,1,0,164,10
+El Bosque,Mercado Minorista Quindiano,5,2,0,140,11
+Universidad Del Quindio,La Clarita,23,5,0,87,23
+Centro,Estadio Centenario,3,4,1,121,29
+Centro,Terminal Del Sur,2,2,0,79,24
+Mercado Minorista Quindiano,Portal Del Quindio,13,2,0,133,10
+La Clarita,El Bosque,7,5,0,353,15
+Terminal Del Sur,Sur,22,5,0,132,23
+Universidad Del Quindio,La Clarita,18,2,1,474,24
+Norte,Sur,19,4,1,405,30
+Norte,Sur,8,2,1,323,22
+Universidad Del Quindio,Norte,18,6,1,319,21
+Sur,La Clarita,20,4,0,79,18
+El Bosque,Centro,0,3,1,138,29
+La Clarita,Sur,10,4,0,127,23
+El Bosque,Portal Del Quindio,8,3,0,267,21
+Centro,Sur,7,1,0,324,23
+Universidad Del Quindio,Centro,21,0,0,169,24
+Portal Del Quindio,Terminal Del Sur,22,4,1,111,16
+La Clarita,Centro,15,5,1,61,18
+Sur,Estadio Centenario,10,5,0,99,14
+Mercado Minorista Quindiano,Centro,20,4,1,97,19
+La Clarita,Mercado Minorista Quindiano,4,2,1,186,19
+Sur,Portal Del Quindio,2,0,0,114,17
+Terminal Del Sur,Norte,12,6,1,125,21
+La Clarita,Portal Del Quindio,11,5,1,96,30
+Mercado Minorista Quindiano,Estadio Centenario,8,2,1,225,19
+Centro,Portal Del Quindio,21,4,1,100,21
+Mercado Minorista Quindiano,La Clarita,19,0,1,356,18
+Sur,El Bosque,3,6,0,141,21
+Centro,El Bosque,3,5,0,125,22
+Terminal Del Sur,El Bosque,2,5,1,140,22
+El Bosque,Portal Del Quindio,8,0,0,271,16
+Estadio Centenario,Portal Del Quindio,5,5,1,194,28
+Norte,El Bosque,11,5,0,76,17
+Centro,El Bosque,18,3,0,292,22
+Terminal Del Sur,Centro,16,2,0,191,12
+Norte,Mercado Minorista Quindiano,15,4,1,133,23
+Terminal Del Sur,Mercado Minorista Quindiano,16,4,0,98,23
+Sur,Estadio Centenario,16,5,1,185,26
+Norte,Sur,19,3,0,289,16
+Portal Del Quindio,Norte,20,4,2,111,31
+Mercado Minorista Quindiano,Terminal Del Sur,10,5,0,175,18
+Estadio Centenario,Mercado Minorista Quindiano,8,4,0,240,10
+Mercado Minorista Quindiano,Centro,23,4,1,100,26
+Sur,La Clarita,6,6,0,240,16
+Centro,Terminal Del Sur,12,2,2,196,32
+Sur,Terminal Del Sur,12,6,0,95,22
+Terminal Del Sur,Centro,0,3,0,68,21
+Mercado Minorista Quindiano,Portal Del Quindio,7,4,0,308,21
+Centro,Universidad Del Quindio,15,0,0,94,19
+Terminal Del Sur,Norte,6,3,0,449,14
+Sur,Centro,7,0,0,373,16
+Sur,Norte,12,6,0,133,11
+La Clarita,Terminal Del Sur,17,1,0,360,24
+El Bosque,Sur,3,1,0,196,24
+El Bosque,Centro,7,3,1,312,16
+Mercado Minorista Quindiano,El Bosque,11,1,0,192,18
+El Bosque,Centro,6,1,0,484,18
+Estadio Centenario,La Clarita,9,1,0,465,23
+Terminal Del Sur,Sur,17,2,0,317,18
+El Bosque,Centro,6,3,1,458,19
+Centro,El Bosque,5,2,1,166,17
+Norte,El Bosque,5,2,0,193,23
+La Clarita,Universidad Del Quindio,7,1,1,280,24
+Norte,Terminal Del Sur,11,2,1,114,22
+Mercado Minorista Quindiano,Portal Del Quindio,12,6,0,150,14
+Mercado Minorista Quindiano,La Clarita,16,6,0,72,17
+Centro,Mercado Minorista Quindiano,5,3,0,70,15
+Norte,Portal Del Quindio,10,1,0,148,22
+Estadio Centenario,Norte,22,0,1,171,29
+Universidad Del Quindio,El Bosque,11,1,1,81,18
+Centro,Terminal Del Sur,2,3,0,128,18
+La Clarita,Portal Del Quindio,22,2,0,97,19
+El Bosque,Portal Del Quindio,21,3,0,173,10
+Terminal Del Sur,Universidad Del Quindio,23,6,1,83,23
+Estadio Centenario,Portal Del Quindio,4,6,0,105,10
+Mercado Minorista Quindiano,Norte,0,6,0,197,12
+La Clarita,Norte,9,3,1,325,26
+Mercado Minorista Quindiano,El Bosque,16,0,0,87,14
+Estadio Centenario,Portal Del Quindio,7,1,0,375,13
+Norte,Portal Del Quindio,23,3,1,114,30
+Portal Del Quindio,Terminal Del Sur,3,0,0,158,11
+La Clarita,Estadio Centenario,4,5,1,169,23
+Centro,Terminal Del Sur,2,2,0,94,13
+Mercado Minorista Quindiano,Centro,13,5,0,156,20
+Norte,Universidad Del Quindio,9,2,1,461,26
+El Bosque,La Clarita,14,4,2,79,31
+Mercado Minorista Quindiano,La Clarita,4,1,0,174,14
+El Bosque,Portal Del Quindio,9,3,0,234,16
+Portal Del Quindio,Sur,5,3,1,67,27
+Sur,Centro,8,0,0,484,22
+Universidad Del Quindio,La Clarita,14,5,0,194,22
+Estadio Centenario,La Clarita,15,5,1,117,20
+El Bosque,Estadio Centenario,4,0,0,98,22
+Centro,Sur,1,4,0,135,14
+El Bosque,Norte,22,2,0,180,19
+La Clarita,Sur,1,4,0,100,19
+Portal Del Quindio,Mercado Minorista Quindiano,16,4,0,176,21
+Norte,La Clarita,20,3,0,188,16
+Sur,Norte,3,2,2,178,33
+Estadio Centenario,Terminal Del Sur,23,4,0,190,24
+Universidad Del Quindio,Centro,1,2,1,66,18
+Norte,Centro,17,5,2,448,29
+Sur,El Bosque,18,4,1,207,27
+Centro,La Clarita,4,0,1,150,19
+Centro,El Bosque,21,2,1,113,26
+Sur,Centro,20,1,1,60,21
+La Clarita,Centro,12,6,0,189,15
+Universidad Del Quindio,Norte,20,5,0,188,16
+Terminal Del Sur,Mercado Minorista Quindiano,4,0,1,69,24
+Norte,Universidad Del Quindio,13,1,1,61,21
+Portal Del Quindio,Sur,16,2,0,196,19
+Universidad Del Quindio,Sur,15,3,0,101,15
+Terminal Del Sur,Portal Del Quindio,22,1,1,151,26
+Estadio Centenario,Universidad Del Quindio,0,5,0,192,20
+El Bosque,Universidad Del Quindio,10,0,0,131,21
+Portal Del Quindio,Terminal Del Sur,18,6,0,438,13
+Estadio Centenario,Norte,6,4,1,362,30
+La Clarita,Estadio Centenario,8,3,0,424,17
+Universidad Del Quindio,La Clarita,18,6,1,493,18
+Mercado Minorista Quindiano,El Bosque,4,4,0,80,16
+La Clarita,Portal Del Quindio,15,1,0,71,22
+El Bosque,Norte,21,2,1,116,21
+La Clarita,Portal Del Quindio,9,1,1,325,20
+Portal Del Quindio,La Clarita,15,3,0,84,17
+Norte,El Bosque,14,2,0,68,11
+Mercado Minorista Quindiano,La Clarita,7,1,2,312,29
+Sur,Portal Del Quindio,6,5,0,334,12
+La Clarita,Mercado Minorista Quindiano,0,3,1,74,20
+La Clarita,Sur,0,6,0,86,22
+Portal Del Quindio,Estadio Centenario,7,4,0,387,18
+Sur,Estadio Centenario,0,3,0,84,11
+Norte,El Bosque,7,6,1,464,17
+Universidad Del Quindio,Norte,13,5,0,177,13
+Terminal Del Sur,Portal Del Quindio,5,2,1,148,23
+Sur,Mercado Minorista Quindiano,2,5,0,83,22
+Sur,Portal Del Quindio,18,2,1,215,17
+La Clarita,Centro,7,0,0,361,19
+Mercado Minorista Quindiano,Centro,15,5,0,115,11
+La Clarita,Sur,12,6,1,83,22
+Mercado Minorista Quindiano,Estadio Centenario,2,6,1,169,29
+Estadio Centenario,La Clarita,22,2,0,167,22
+Terminal Del Sur,Sur,6,4,0,494,10
+El Bosque,Sur,16,0,0,62,14
+Norte,Universidad Del Quindio,18,4,1,474,24
+Terminal Del Sur,Norte,21,6,0,130,16
+La Clarita,Portal Del Quindio,22,5,1,123,25
+Universidad Del Quindio,Sur,3,5,0,101,13
+Centro,El Bosque,17,5,0,377,21
+La Clarita,Sur,13,3,2,102,29
+La Clarita,Estadio Centenario,14,5,0,79,24
+Portal Del Quindio,El Bosque,3,4,1,108,22
+Centro,Norte,7,1,0,211,16
+Universidad Del Quindio,Mercado Minorista Quindiano,13,1,2,131,29
+Universidad Del Quindio,Mercado Minorista Quindiano,1,6,0,124,18
+Mercado Minorista Quindiano,Centro,11,0,1,128,24
+Terminal Del Sur,Portal Del Quindio,16,1,0,142,19
+Centro,Norte,17,5,0,493,10
+La Clarita,El Bosque,22,1,1,57,24
+Sur,Universidad Del Quindio,5,4,0,170,22
+Centro,Terminal Del Sur,10,0,2,114,32
+La Clarita,Estadio Centenario,18,0,1,361,27
+Sur,Universidad Del Quindio,3,3,0,131,24
+Centro,Mercado Minorista Quindiano,18,4,0,282,10
+Portal Del Quindio,Universidad Del Quindio,5,3,1,194,25
+Estadio Centenario,El Bosque,22,1,1,109,26
+Centro,Norte,23,6,0,187,24
+Estadio Centenario,Universidad Del Quindio,22,4,0,198,20
+La Clarita,Norte,12,4,0,73,21
+El Bosque,Estadio Centenario,10,0,0,74,23
+Norte,El Bosque,8,4,0,410,21
+El Bosque,Centro,4,1,0,194,14
+Centro,La Clarita,21,6,1,77,24
+El Bosque,Centro,2,6,1,195,29
+La Clarita,Universidad Del Quindio,2,3,0,154,21
+Universidad Del Quindio,Norte,6,0,0,212,11
+Universidad Del Quindio,El Bosque,4,4,0,149,24
+El Bosque,Norte,1,0,0,122,15
+Centro,Sur,10,5,1,149,28
